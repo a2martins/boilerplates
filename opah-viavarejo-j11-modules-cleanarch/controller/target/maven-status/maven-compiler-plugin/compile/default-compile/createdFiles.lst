@@ -1,0 +1,4 @@
+module-info.class
+br/com/opah/controllers/converter/StringToGithubDomainConverter.class
+br/com/opah/controllers/GithubController.class
+br/com/opah/controllers/converter/StringToGithubDomainConverterImpl.class

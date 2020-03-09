@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: opah-viavarejo-j11-modules-cleanarchitecture
+
+github:
+  api: https://api.github.com
+

@@ -1,0 +1,7 @@
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/config/FeignConfig.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/exception/NotFoundResourceException.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/controller/UserController.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/Application.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/config/FeignErrorDecoderConfig.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/br/com/opah/restapi/config/SwaggerConfig.java
+/dados/estudos/java/opah-viavarejo-j11-modules-cleanarch/restapi/src/main/java/module-info.java

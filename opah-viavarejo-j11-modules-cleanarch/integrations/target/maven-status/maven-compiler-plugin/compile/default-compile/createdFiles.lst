@@ -1,0 +1,7 @@
+br/com/opah/integrations/dto/GithubResponseDTO.class
+br/com/opah/integrations/dto/GithubResponseDTO$GithubResponseDTOBuilder.class
+br/com/opah/integrations/converter/GithubResponseDTOTOGithubDomainConverterImpl.class
+module-info.class
+br/com/opah/integrations/impl/RequestGithubGatewayImpl.class
+br/com/opah/integrations/converter/GithubResponseDTOTOGithubDomainConverter.class
+br/com/opah/integrations/FindUserGithub.class
