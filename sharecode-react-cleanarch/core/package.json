@@ -1,0 +1,20 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "author": "alexandremartins",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "types": "dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@types/node": "^14.6.0",
+        "@types/redux-logger": "^3.0.8",
+        "redux": "^4.0.5",
+        "redux-logger": "^3.0.6"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.2"
+    }
+}
