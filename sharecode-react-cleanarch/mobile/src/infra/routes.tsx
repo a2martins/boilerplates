@@ -1,8 +1,8 @@
 import React from 'react';
-import { View } from 'react-native';
-import { Provider } from 'react-redux';
-import { NativeRouter, Route, Switch } from 'react-router-native';
-import Main from "../presentation/pages/Main";
+import {View} from 'react-native';
+import {Provider} from 'react-redux';
+import {NativeRouter, Route, Switch} from 'react-router-native';
+import Main from '../presentation/pages/Main';
 import store from './store';
 
 const Routes = () => (
