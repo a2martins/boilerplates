@@ -1,0 +1,20 @@
+{
+  "description": "clean architecture to react codebases",
+  "name": "sharecode-react-cleanarch",
+  "version": "1.0.0",
+  "author": "alexandremartins",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-native",
+    "clean-architecture",
+    "boilerplate"
+  ],
+  "scripts": {
+    "prettier": "prettier --write '**/src/**/*.ts?(x)'"
+  },
+  "devDependencies": {
+    "prettier": "1.13.5",
+    "prettierrc": "0.0.0-5"
+  }
+}
